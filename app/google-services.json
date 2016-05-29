@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "667564674885",
+    "project_id": "loginmodule-1326"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667564674885:android:6bc80cd5eb134104",
+        "android_client_info": {
+          "package_name": "com.harshal.loginmodule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667564674885-jv6d317cqdbks296uiaar975ivi6mmoq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.harshal.loginmodule",
+            "certificate_hash": "3A36EC4D40BE40B4408913D91587843A1E6738E3"
+          }
+        },
+        {
+          "client_id": "667564674885-81c34iphsvq12tntdikqp5a2unge4jg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB77OihXY9r0FeA6MnEzIBEDDKntDCfAOw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
